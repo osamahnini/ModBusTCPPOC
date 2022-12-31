@@ -1,0 +1,1649 @@
+2022-12-31 15:05:29 info: tempDirectory:c:\Users\User-HP\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-31 15:05:29 info: Extraction complete for source: c:\Users\User-HP\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\User-HP\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2022-12-31 15:05:29 info: Congratulations, your extension "Embold" is now active!
+2022-12-31 15:05:47 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32
+2022-12-31 15:05:47 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:42 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32
+2022-12-31 15:09:42 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpf4ug6yfe.tmp
+2022-12-31 15:09:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp1oxexowk.tmp
+2022-12-31 15:09:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpwgx81x37.tmp
+2022-12-31 15:09:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:55 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp30dizyvj.tmp
+2022-12-31 15:09:55 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5oys5ehj.tmp
+2022-12-31 15:09:55 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:55 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:55 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpgq84_7j4.tmp
+2022-12-31 15:09:55 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:55 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_y1_opir.tmp
+2022-12-31 15:09:55 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:56 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpqte49osw.tmp
+2022-12-31 15:09:56 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:58 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpzwn3dd9r.tmp
+2022-12-31 15:09:58 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:59 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_rv42bm5.tmp
+2022-12-31 15:09:59 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:09:59 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkvvfx6pn.tmp
+2022-12-31 15:09:59 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:00 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8s7yfvpz.tmp
+2022-12-31 15:10:00 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:02 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpyz4t9krb.tmp
+2022-12-31 15:10:02 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:02 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmplxc8tn_u.tmp
+2022-12-31 15:10:02 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:03 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpgkp4dn7t.tmp
+2022-12-31 15:10:03 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpis27afrc.tmp
+2022-12-31 15:10:03 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:03 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:04 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmptv02ty7b.tmp
+2022-12-31 15:10:04 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmplh05k699.tmp
+2022-12-31 15:10:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp6dttq1u1.tmp
+2022-12-31 15:10:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmporyxlweo.tmp
+2022-12-31 15:10:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpnawr9yik.tmp
+2022-12-31 15:10:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpg90mswgl.tmp
+2022-12-31 15:10:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpu0oq8dhd.tmp
+2022-12-31 15:10:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpy3xkehbs.tmp
+2022-12-31 15:10:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpoqfs15ef.tmp
+2022-12-31 15:10:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpjyx7xqio.tmp
+2022-12-31 15:10:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpfhlw0h95.tmp
+2022-12-31 15:10:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpjy40ue94.tmp
+2022-12-31 15:10:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:10 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5eemrrzd.tmp
+2022-12-31 15:10:10 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:11 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp3x71jqm0.tmp
+2022-12-31 15:10:11 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvsecade0.tmp
+2022-12-31 15:10:11 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:11 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:11 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp34rz4bmm.tmp
+2022-12-31 15:10:11 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:12 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpl1rp36fr.tmp
+2022-12-31 15:10:12 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpf_avd1w8.tmp
+2022-12-31 15:10:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkjqbhqhp.tmp
+2022-12-31 15:10:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpy7jt7uwz.tmp
+2022-12-31 15:10:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpreuja9xh.tmp
+2022-12-31 15:10:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpdm9zr0qn.tmp
+2022-12-31 15:10:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp6hfwn6u3.tmp
+2022-12-31 15:10:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpdr6i3pna.tmp
+2022-12-31 15:10:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpe9mdlf51.tmp
+2022-12-31 15:10:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppkoadpie.tmp
+2022-12-31 15:10:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpqm7k279d.tmp
+2022-12-31 15:10:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmprn6ynjgd.tmp
+2022-12-31 15:10:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvdv9h82r.tmp
+2022-12-31 15:10:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9nzqhuw1.tmp
+2022-12-31 15:10:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:17 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpleoag295.tmp
+2022-12-31 15:10:17 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpxlxfv7mb.tmp
+2022-12-31 15:10:17 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:17 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:18 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpbxk123pq.tmp
+2022-12-31 15:10:18 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:18 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmprhibzxdw.tmp
+2022-12-31 15:10:18 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp282vir43.tmp
+2022-12-31 15:10:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmplz2r2bvf.tmp
+2022-12-31 15:10:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpt2jg7o6m.tmp
+2022-12-31 15:10:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmptiavu5yg.tmp
+2022-12-31 15:10:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpzddr1e6j.tmp
+2022-12-31 15:10:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpa4bq2_np.tmp
+2022-12-31 15:10:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp4h55isht.tmp
+2022-12-31 15:10:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9kzluamz.tmp
+2022-12-31 15:10:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_dmkabwy.tmp
+2022-12-31 15:10:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpcn4wh6s0.tmp
+2022-12-31 15:10:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:10:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmptxh53ebo.tmp
+2022-12-31 15:10:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:12:47 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32
+2022-12-31 15:12:47 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:12:57 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpcb737zq9.tmp
+2022-12-31 15:12:57 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:12:59 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpibwpd1hy.tmp
+2022-12-31 15:12:59 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:12:59 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp7wz051f1.tmp
+2022-12-31 15:12:59 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpb4j1kbkg.tmp
+2022-12-31 15:12:59 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:12:59 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:00 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp45w9jmdy.tmp
+2022-12-31 15:13:00 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:00 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5xxo3uls.tmp
+2022-12-31 15:13:00 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvpc99bk8.tmp
+2022-12-31 15:13:00 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:00 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:01 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpya28n1jy.tmp
+2022-12-31 15:13:01 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:03 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmphzml2d11.tmp
+2022-12-31 15:13:03 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:03 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpcblykmsq.tmp
+2022-12-31 15:13:03 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:04 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_xgsdmdz.tmp
+2022-12-31 15:13:04 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:04 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmphhgdzx2u.tmp
+2022-12-31 15:13:04 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:06 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8uacmrr9.tmp
+2022-12-31 15:13:06 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp49t87caf.tmp
+2022-12-31 15:13:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpsattol5f.tmp
+2022-12-31 15:13:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp0j145q_r.tmp
+2022-12-31 15:13:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpnb3p_knb.tmp
+2022-12-31 15:13:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpln20n3el.tmp
+2022-12-31 15:13:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:10 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpzstgxeik.tmp
+2022-12-31 15:13:10 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:11 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpot0ofypl.tmp
+2022-12-31 15:13:11 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:12 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpawrq5k1o.tmp
+2022-12-31 15:13:12 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8k3uvjpu.tmp
+2022-12-31 15:13:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmprmueuh67.tmp
+2022-12-31 15:13:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp408dm30f.tmp
+2022-12-31 15:13:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpuw_trkx0.tmp
+2022-12-31 15:13:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpiyspebpz.tmp
+2022-12-31 15:13:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:15 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpaiahrv1i.tmp
+2022-12-31 15:13:15 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:15 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpdswpvbqx.tmp
+2022-12-31 15:13:15 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmphwejo4m0.tmp
+2022-12-31 15:13:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:17 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpta25bmi_.tmp
+2022-12-31 15:13:17 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:17 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8_nmualy.tmp
+2022-12-31 15:13:17 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:17 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9asu7og2.tmp
+2022-12-31 15:13:17 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:17 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp72s16l8u.tmp
+2022-12-31 15:13:17 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpls1yvnmb.tmp
+2022-12-31 15:13:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp7iq1f_kg.tmp
+2022-12-31 15:13:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp6f8oms4l.tmp
+2022-12-31 15:13:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:21 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp3gt6viyu.tmp
+2022-12-31 15:13:21 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpevb3tdk3.tmp
+2022-12-31 15:13:21 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpgeh_y9jx.tmp
+2022-12-31 15:13:21 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:21 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:21 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:21 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvca15efg.tmp
+2022-12-31 15:13:21 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpt58ddohk.tmp
+2022-12-31 15:13:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmptnd7rwr8.tmp
+2022-12-31 15:13:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp3aykyhrr.tmp
+2022-12-31 15:13:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp4hp383t2.tmp
+2022-12-31 15:13:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpwq8gylv8.tmp
+2022-12-31 15:13:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:23 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpnwasy_92.tmp
+2022-12-31 15:13:23 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppujr0mcc.tmp
+2022-12-31 15:13:23 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:23 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:23 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpwvl7k3kl.tmp
+2022-12-31 15:13:23 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:24 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp1og9xlbq.tmp
+2022-12-31 15:13:24 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpccd_54n8.tmp
+2022-12-31 15:13:24 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:24 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp1o0sozen.tmp
+2022-12-31 15:13:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp3swso660.tmp
+2022-12-31 15:13:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp4vnp1n9y.tmp
+2022-12-31 15:13:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpesyyiwsp.tmp
+2022-12-31 15:13:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppsi4ats8.tmp
+2022-12-31 15:13:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpt46pcvdx.tmp
+2022-12-31 15:13:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpteugqdoq.tmp
+2022-12-31 15:13:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmphygsdpsh.tmp
+2022-12-31 15:13:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/libdeps/featheresp32.lock
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8h8zfuod.tmp
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpfknxydvu.tmp
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmplybewmq8.tmp
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/.sconsign39.dblite
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/libb64
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Esp.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Esp.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USB.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USB.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Tone.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Tone.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/cbuf.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/cbuf.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HWCDC.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HWCDC.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Print.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Print.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WMath.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WMath.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Stream.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Stream.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBCDC.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBCDC.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBMSC.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBMSC.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/base64.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/base64.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WString.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPAddress.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPAddress.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/MD5Builder.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/MD5Builder.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-bt.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-bt.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FirmwareMSC.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FirmwareMSC.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPv6Address.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPv6Address.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-adc.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-adc.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-cpu.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-cpu.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-dac.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-dac.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-rmt.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-rmt.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-spi.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-spi.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/StreamString.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/StreamString.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-gpio.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-gpio.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-ledc.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-ledc.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-misc.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-misc.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-time.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-time.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-uart.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-uart.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-psram.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-psram.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-timer.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-timer.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-touch.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-touch.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HardwareSerial.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HardwareSerial.cpp.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-matrix.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-matrix.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/firmware_msc_fat.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/firmware_msc_fat.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-tinyusb.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-tinyusb.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c-slave.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c-slave.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-sigmadelta.c.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-sigmadelta.c.o
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FunctionalInterrupt.cpp.d
+2022-12-31 15:13:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FunctionalInterrupt.cpp.o
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:28 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32
+2022-12-31 15:13:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:46 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpopnc2kek.tmp
+2022-12-31 15:13:46 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:13:52 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5r1dshss.tmp
+2022-12-31 15:13:52 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:06 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32
+2022-12-31 15:14:06 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:12 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpn9_fkfqx.tmp
+2022-12-31 15:14:12 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp4sbsg9dz.tmp
+2022-12-31 15:14:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:31 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio
+2022-12-31 15:14:31 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:45 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp792dq0b8.tmp
+2022-12-31 15:14:45 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:45 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpiyplo80q.tmp
+2022-12-31 15:14:45 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:46 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpgd922vqu.tmp
+2022-12-31 15:14:46 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:46 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp688qr7td.tmp
+2022-12-31 15:14:46 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp68jpcw0n.tmp
+2022-12-31 15:14:46 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:46 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:47 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpu7i6u9sx.tmp
+2022-12-31 15:14:47 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpzp9_lijo.tmp
+2022-12-31 15:14:47 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:47 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:48 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpst1nkzzn.tmp
+2022-12-31 15:14:48 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_4lcdklj.tmp
+2022-12-31 15:14:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpt3luzv1h.tmp
+2022-12-31 15:14:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:50 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5o6jj1ux.tmp
+2022-12-31 15:14:50 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:52 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpef14i1h8.tmp
+2022-12-31 15:14:52 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:52 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_l_7l63j.tmp
+2022-12-31 15:14:52 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:52 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpbc13q0d7.tmp
+2022-12-31 15:14:52 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:53 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpaz88ire4.tmp
+2022-12-31 15:14:53 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:53 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkd27sjrx.tmp
+2022-12-31 15:14:53 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:55 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp3ab5rm8p.tmp
+2022-12-31 15:14:55 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:55 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpwuoavxvz.tmp
+2022-12-31 15:14:55 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:56 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpx2yn_krz.tmp
+2022-12-31 15:14:56 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:57 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp0_j1ycv5.tmp
+2022-12-31 15:14:57 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:57 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp1xjsvij9.tmp
+2022-12-31 15:14:57 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:58 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpdjcuzb2z.tmp
+2022-12-31 15:14:58 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpt0j1doi8.tmp
+2022-12-31 15:14:58 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:58 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:58 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_9d1uxf8.tmp
+2022-12-31 15:14:58 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpv6gy_oqe.tmp
+2022-12-31 15:14:58 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:58 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:14:59 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpogrvbb6c.tmp
+2022-12-31 15:14:59 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:00 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp10mmloxp.tmp
+2022-12-31 15:15:00 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpo0spapes.tmp
+2022-12-31 15:15:00 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:00 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:01 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp6pniuuih.tmp
+2022-12-31 15:15:01 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:02 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp2gpathd2.tmp
+2022-12-31 15:15:02 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvb8kzak0.tmp
+2022-12-31 15:15:02 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:02 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:02 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9q6c_4ef.tmp
+2022-12-31 15:15:02 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:02 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpmb3b64o8.tmp
+2022-12-31 15:15:02 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:03 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpofwl6l4z.tmp
+2022-12-31 15:15:03 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppuk9qdv1.tmp
+2022-12-31 15:15:03 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:03 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:04 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp06hl8r1i.tmp
+2022-12-31 15:15:04 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpmu68c6ku.tmp
+2022-12-31 15:15:04 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:04 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8nr15bwb.tmp
+2022-12-31 15:15:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpdqetb11p.tmp
+2022-12-31 15:15:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpn1r83o3i.tmp
+2022-12-31 15:15:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpnxzvn8zg.tmp
+2022-12-31 15:15:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppx8nwj9f.tmp
+2022-12-31 15:15:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpnwtsbl43.tmp
+2022-12-31 15:15:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:06 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp4fltx4n7.tmp
+2022-12-31 15:15:06 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpu6f_o5na.tmp
+2022-12-31 15:15:06 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:06 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:06 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5amjdo1n.tmp
+2022-12-31 15:15:06 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpjm6lz7wy.tmp
+2022-12-31 15:15:06 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:06 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9npawy4s.tmp
+2022-12-31 15:15:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_14c_qrl.tmp
+2022-12-31 15:15:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpk7seo1sp.tmp
+2022-12-31 15:15:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpmk2oxbuq.tmp
+2022-12-31 15:15:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpo0n10rgt.tmp
+2022-12-31 15:15:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp3ngdwuqc.tmp
+2022-12-31 15:15:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8i8999m2.tmp
+2022-12-31 15:15:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpuuu161q7.tmp
+2022-12-31 15:15:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpz5d1q8df.tmp
+2022-12-31 15:15:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmphfg9oa9t.tmp
+2022-12-31 15:15:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpyp4869jm.tmp
+2022-12-31 15:15:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:15:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpyhu14mu9.tmp
+2022-12-31 15:15:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.map
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/.sconsign39.dblite
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/libb64
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Esp.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Esp.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USB.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USB.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Tone.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Tone.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/cbuf.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/cbuf.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/main.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/main.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HWCDC.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HWCDC.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Print.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Print.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WMath.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WMath.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Stream.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Stream.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBCDC.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBCDC.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBMSC.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBMSC.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/base64.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/base64.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WString.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPAddress.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPAddress.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/MD5Builder.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/MD5Builder.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-bt.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-bt.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_pulse.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_pulse.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_shift.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_shift.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FirmwareMSC.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FirmwareMSC.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPv6Address.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPv6Address.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-adc.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-adc.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-cpu.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-cpu.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-dac.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-dac.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-rmt.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-rmt.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-spi.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-spi.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/stdlib_noniso.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/stdlib_noniso.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/StreamString.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/StreamString.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-gpio.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-gpio.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-ledc.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-ledc.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-misc.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-misc.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-time.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-time.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-uart.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-uart.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-psram.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-psram.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-timer.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-timer.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-touch.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-touch.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HardwareSerial.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HardwareSerial.cpp.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-matrix.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-matrix.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/firmware_msc_fat.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/firmware_msc_fat.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-tinyusb.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-tinyusb.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c-slave.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c-slave.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-sigmadelta.c.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-sigmadelta.c.o
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FunctionalInterrupt.cpp.d
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FunctionalInterrupt.cpp.o
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:19:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32
+2022-12-31 15:19:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:20:12 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32
+2022-12-31 15:20:12 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/libdeps/featheresp32.lock
+2022-12-31 15:20:12 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:20:12 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:20:12 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/libdeps/featheresp32.lock
+2022-12-31 15:20:12 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:32 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpwh7sub3p.tmp
+2022-12-31 15:25:32 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:35 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppjfis4qu.tmp
+2022-12-31 15:25:35 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_ek0t2zg.tmp
+2022-12-31 15:25:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmph6xvolos.tmp
+2022-12-31 15:25:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpie_13idt.tmp
+2022-12-31 15:25:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpy8xnsskl.tmp
+2022-12-31 15:25:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:39 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp2of0j23w.tmp
+2022-12-31 15:25:39 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:39 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpmzbwbxp6.tmp
+2022-12-31 15:25:39 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpp96_gdlk.tmp
+2022-12-31 15:25:39 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:39 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:42 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpp41l7ixy.tmp
+2022-12-31 15:25:42 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:43 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp53g412hu.tmp
+2022-12-31 15:25:43 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:45 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpz7w5k6tm.tmp
+2022-12-31 15:25:45 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:47 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpg5uxjl3_.tmp
+2022-12-31 15:25:47 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:48 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmphodrzkj1.tmp
+2022-12-31 15:25:48 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:48 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpr3u159aw.tmp
+2022-12-31 15:25:48 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:50 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvjxalco9.tmp
+2022-12-31 15:25:50 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:50 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkv6lqqpc.tmp
+2022-12-31 15:25:50 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:50 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_599mopd.tmp
+2022-12-31 15:25:50 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:53 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp3_dd5k23.tmp
+2022-12-31 15:25:53 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8syblnzj.tmp
+2022-12-31 15:25:53 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:53 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:55 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkdxj8l77.tmp
+2022-12-31 15:25:55 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:56 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpmrh9lldf.tmp
+2022-12-31 15:25:56 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:57 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmps31vuc9q.tmp
+2022-12-31 15:25:57 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:58 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpgzz05_zo.tmp
+2022-12-31 15:25:58 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:58 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/libbd8/stP1kAlM
+2022-12-31 15:25:58 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:25:59 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpr0uagj7g.tmp
+2022-12-31 15:25:59 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:00 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp3twrg_31.tmp
+2022-12-31 15:26:00 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:01 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpfmiuaef_.tmp
+2022-12-31 15:26:01 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:02 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5aekz54o.tmp
+2022-12-31 15:26:02 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:03 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp20sdzw1_.tmp
+2022-12-31 15:26:03 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:04 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpphxh7nr2.tmp
+2022-12-31 15:26:04 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:04 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp291n9rqk.tmp
+2022-12-31 15:26:04 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp4c5iq046.tmp
+2022-12-31 15:26:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpk7v8ahie.tmp
+2022-12-31 15:26:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:06 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpp07bh8s6.tmp
+2022-12-31 15:26:06 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9vhtewx2.tmp
+2022-12-31 15:26:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp85cqicut.tmp
+2022-12-31 15:26:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkka6h5s9.tmp
+2022-12-31 15:26:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpiex_gks2.tmp
+2022-12-31 15:26:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:10 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp2ijyrid3.tmp
+2022-12-31 15:26:10 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:11 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvve0wsb6.tmp
+2022-12-31 15:26:11 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvzbzqjc0.tmp
+2022-12-31 15:26:11 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:11 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp25675rj6.tmp
+2022-12-31 15:26:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpo2fdgm6x.tmp
+2022-12-31 15:26:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpogffnfgy.tmp
+2022-12-31 15:26:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvmxufco5.tmp
+2022-12-31 15:26:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:15 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp574staf3.tmp
+2022-12-31 15:26:15 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpdwdm2mpn.tmp
+2022-12-31 15:26:15 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkgwxhbwk.tmp
+2022-12-31 15:26:15 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:15 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:15 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpfuyicfll.tmp
+2022-12-31 15:26:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpz4n0jldj.tmp
+2022-12-31 15:26:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:17 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpbdqrve0g.tmp
+2022-12-31 15:26:17 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:18 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpfx37j7lw.tmp
+2022-12-31 15:26:18 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpqlo12raa.tmp
+2022-12-31 15:26:18 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:18 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpmmx5vxcl.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpuz74adec.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpaf1cbr8m.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmplzwjlgco.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpt52nu2x6.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpbula483l.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpamf55che.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpn59rh4h1.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpnnq07nws.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpcz78t5d6.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpmw9aqvum.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppfxt5v8o.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp680cz8j3.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppbkcl855.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmprhf03hoh.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpw2d6jd9x.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpxnvkejry.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmph47dimu7.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmphe4k3owa.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppownpxgj.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpyjzc4okd.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpz0x5zfmk.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5nwzkmib.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp6yn7s8bw.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkaclepo6.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpw5i2qp4k.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpagtmb9i9.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpfeejd6sy.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpshleao6n.tmp
+2022-12-31 15:26:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmptjkawecc.tmp
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:31 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpdwcm92u_.tmp
+2022-12-31 15:26:31 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:41 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 15:26:41 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:26:56 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/src/main1.cpp
+2022-12-31 15:26:56 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:04 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/src/main1.TXT
+2022-12-31 15:27:04 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.map
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/.sconsign39.dblite
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/libb64
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Esp.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Esp.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USB.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USB.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Tone.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Tone.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/cbuf.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/cbuf.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/main.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/main.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HWCDC.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HWCDC.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Print.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Print.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WMath.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WMath.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Stream.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Stream.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBCDC.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBCDC.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBMSC.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBMSC.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/base64.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/base64.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WString.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPAddress.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPAddress.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/MD5Builder.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/MD5Builder.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-bt.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-bt.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_pulse.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_pulse.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_shift.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_shift.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FirmwareMSC.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FirmwareMSC.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPv6Address.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPv6Address.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-adc.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-adc.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-cpu.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-cpu.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-dac.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-dac.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-rmt.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-rmt.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-spi.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-spi.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/stdlib_noniso.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/stdlib_noniso.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/StreamString.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/StreamString.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-gpio.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-gpio.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-ledc.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-ledc.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-misc.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-misc.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-time.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-time.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-uart.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-uart.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-psram.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-psram.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-timer.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-timer.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-touch.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-touch.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HardwareSerial.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HardwareSerial.cpp.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-matrix.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-matrix.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/firmware_msc_fat.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/firmware_msc_fat.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-tinyusb.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-tinyusb.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c-slave.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c-slave.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-sigmadelta.c.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-sigmadelta.c.o
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FunctionalInterrupt.cpp.d
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FunctionalInterrupt.cpp.o
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32
+2022-12-31 15:27:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:18 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvemsl10d.tmp
+2022-12-31 15:27:18 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvm2w4gnx.tmp
+2022-12-31 15:27:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpe9yj2hkq.tmp
+2022-12-31 15:27:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpi1wgwr5_.tmp
+2022-12-31 15:27:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:21 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpw8nxnbd1.tmp
+2022-12-31 15:27:21 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpye3mlipb.tmp
+2022-12-31 15:27:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_2at0uep.tmp
+2022-12-31 15:27:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpb5jh4ba6.tmp
+2022-12-31 15:27:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:23 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9odlzhou.tmp
+2022-12-31 15:27:23 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:25 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpaxqpegdu.tmp
+2022-12-31 15:27:25 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp2uletq3_.tmp
+2022-12-31 15:27:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpg8ycn2_8.tmp
+2022-12-31 15:27:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp29l80axt.tmp
+2022-12-31 15:27:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpprwjdljr.tmp
+2022-12-31 15:27:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpx7bvt0rd.tmp
+2022-12-31 15:27:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:30 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpffntqmih.tmp
+2022-12-31 15:27:30 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:31 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmps32xrlgu.tmp
+2022-12-31 15:27:31 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:32 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpw1beki7i.tmp
+2022-12-31 15:27:32 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:33 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_bmgqhzm.tmp
+2022-12-31 15:27:33 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:33 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp2pvx3ezm.tmp
+2022-12-31 15:27:33 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:33 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpaohbk8w5.tmp
+2022-12-31 15:27:33 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:33 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpxt7smltm.tmp
+2022-12-31 15:27:33 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:34 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpo3jkd8hq.tmp
+2022-12-31 15:27:34 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:35 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp640xleu_.tmp
+2022-12-31 15:27:35 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:35 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpaa2huw9v.tmp
+2022-12-31 15:27:35 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:37 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp1ayu77vp.tmp
+2022-12-31 15:27:37 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpt6bna4te.tmp
+2022-12-31 15:27:37 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:37 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:37 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpgvha59h0.tmp
+2022-12-31 15:27:37 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpp_42k3gp.tmp
+2022-12-31 15:27:37 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:37 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp2wgop40e.tmp
+2022-12-31 15:27:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:39 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpa7yaomdf.tmp
+2022-12-31 15:27:39 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:40 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp1qumuyta.tmp
+2022-12-31 15:27:40 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:41 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpjjgxr4m9.tmp
+2022-12-31 15:27:41 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:42 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpg3x4m78h.tmp
+2022-12-31 15:27:42 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:42 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp74xic3lq.tmp
+2022-12-31 15:27:42 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:42 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpikovgz1e.tmp
+2022-12-31 15:27:42 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpzis9dpz8.tmp
+2022-12-31 15:27:42 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:42 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:43 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkcs7rlxt.tmp
+2022-12-31 15:27:43 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:43 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpyktw53je.tmp
+2022-12-31 15:27:43 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:44 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp42yqqwze.tmp
+2022-12-31 15:27:44 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:45 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp0tcwoogr.tmp
+2022-12-31 15:27:45 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppvxd8mr_.tmp
+2022-12-31 15:27:45 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:45 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:45 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpo4295wbb.tmp
+2022-12-31 15:27:45 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:46 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpd8bk0w1f.tmp
+2022-12-31 15:27:46 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpijzmqt_f.tmp
+2022-12-31 15:27:46 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpqqjim8ns.tmp
+2022-12-31 15:27:46 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpzt8mebx1.tmp
+2022-12-31 15:27:46 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:46 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:46 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:46 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:47 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpcora1tmu.tmp
+2022-12-31 15:27:47 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpxt8i5sdh.tmp
+2022-12-31 15:27:47 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:47 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:48 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpzg9sslwb.tmp
+2022-12-31 15:27:48 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:48 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpds4fyiye.tmp
+2022-12-31 15:27:48 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp4_6rdyv9.tmp
+2022-12-31 15:27:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp7kutrkld.tmp
+2022-12-31 15:27:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpaeiha5hs.tmp
+2022-12-31 15:27:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpajmw8vro.tmp
+2022-12-31 15:27:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpt294im_n.tmp
+2022-12-31 15:27:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9h4yei44.tmp
+2022-12-31 15:27:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpqgjdx5lr.tmp
+2022-12-31 15:27:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:50 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpk_nmn6k_.tmp
+2022-12-31 15:27:50 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:50 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp83k58r6q.tmp
+2022-12-31 15:27:50 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpafrn9jlb.tmp
+2022-12-31 15:27:50 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:50 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:51 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp0xq8kglx.tmp
+2022-12-31 15:27:51 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp7kuckm17.tmp
+2022-12-31 15:27:51 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpb_27ap5e.tmp
+2022-12-31 15:27:51 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmptpzx1lzs.tmp
+2022-12-31 15:27:51 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:51 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:51 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:51 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:51 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp6rgoccdw.tmp
+2022-12-31 15:27:51 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpqhuslewb.tmp
+2022-12-31 15:27:51 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpw18c7ntn.tmp
+2022-12-31 15:27:51 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:51 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:51 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:52 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmph8nemncr.tmp
+2022-12-31 15:27:52 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:52 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpgzo69yt8.tmp
+2022-12-31 15:27:52 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmphpxppizx.tmp
+2022-12-31 15:27:52 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpmujqj8hy.tmp
+2022-12-31 15:27:52 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:52 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:52 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:27:53 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp826_707s.tmp
+2022-12-31 15:27:53 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:28:58 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 15:28:58 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:29:01 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp1_kf09nq.tmp
+2022-12-31 15:29:01 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:29:12 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 15:29:12 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:47:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 15:47:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:47:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/libd26/Ethernet/ETH.cpp.o
+2022-12-31 15:47:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:48:00 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8txh0jwo.tmp
+2022-12-31 15:48:00 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:49:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpasxn_964.tmp
+2022-12-31 15:49:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:49:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 15:49:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 15:49:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 15:49:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.map
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/.sconsign39.dblite
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/libb64
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Esp.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Esp.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USB.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USB.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Tone.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Tone.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/cbuf.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/cbuf.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/main.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/main.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HWCDC.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HWCDC.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Print.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Print.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WMath.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WMath.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Stream.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/Stream.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBCDC.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBCDC.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBMSC.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/USBMSC.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/base64.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/base64.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/WString.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPAddress.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPAddress.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/MD5Builder.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/MD5Builder.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-bt.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-bt.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_pulse.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_pulse.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_shift.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/wiring_shift.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FirmwareMSC.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FirmwareMSC.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPv6Address.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/IPv6Address.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-adc.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-adc.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-cpu.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-cpu.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-dac.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-dac.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-rmt.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-rmt.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-spi.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-spi.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/stdlib_noniso.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/stdlib_noniso.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/StreamString.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/StreamString.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-gpio.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-gpio.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-ledc.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-ledc.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-misc.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-misc.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-time.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-time.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-uart.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-uart.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-psram.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-psram.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-timer.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-timer.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-touch.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-touch.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HardwareSerial.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/HardwareSerial.cpp.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-matrix.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-matrix.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/firmware_msc_fat.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/firmware_msc_fat.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-tinyusb.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-tinyusb.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c-slave.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-i2c-slave.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-sigmadelta.c.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/esp32-hal-sigmadelta.c.o
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FunctionalInterrupt.cpp.d
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/FrameworkArduino/FunctionalInterrupt.cpp.o
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:10:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32
+2022-12-31 16:10:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp7fvla6ok.tmp
+2022-12-31 16:11:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpokkoyqi9.tmp
+2022-12-31 16:11:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:06 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp2ne3hs_p.tmp
+2022-12-31 16:11:06 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpz0tgwr4w.tmp
+2022-12-31 16:11:06 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:06 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9_6f0998.tmp
+2022-12-31 16:11:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpmsb526ea.tmp
+2022-12-31 16:11:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmprt8jmr7x.tmp
+2022-12-31 16:11:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpt3ixxpao.tmp
+2022-12-31 16:11:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8_n4vw4b.tmp
+2022-12-31 16:11:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:12 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpa3ybb3_u.tmp
+2022-12-31 16:11:12 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp1krwwsqu.tmp
+2022-12-31 16:11:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmphtnjus9h.tmp
+2022-12-31 16:11:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp4mr6xrwk.tmp
+2022-12-31 16:11:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp2jy1_qcz.tmp
+2022-12-31 16:11:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:15 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpehm3baqd.tmp
+2022-12-31 16:11:15 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:15 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp035d0137.tmp
+2022-12-31 16:11:15 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp0kg6gkaw.tmp
+2022-12-31 16:11:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5hrq8w99.tmp
+2022-12-31 16:11:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp6zqyaeax.tmp
+2022-12-31 16:11:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp_ngusf_u.tmp
+2022-12-31 16:11:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpra98jz50.tmp
+2022-12-31 16:11:19 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpz70qvwxk.tmp
+2022-12-31 16:11:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:19 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpxjy5q827.tmp
+2022-12-31 16:11:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:20 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpig8f66ie.tmp
+2022-12-31 16:11:20 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:21 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp0tut6qdd.tmp
+2022-12-31 16:11:21 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:22 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp0lsm31h4.tmp
+2022-12-31 16:11:22 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:23 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp45h45y6_.tmp
+2022-12-31 16:11:23 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpi47vp32a.tmp
+2022-12-31 16:11:23 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpixprjjg_.tmp
+2022-12-31 16:11:23 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:23 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:23 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:24 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpof5yjure.tmp
+2022-12-31 16:11:24 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:25 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpgim60wvc.tmp
+2022-12-31 16:11:25 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpektw0mbj.tmp
+2022-12-31 16:11:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpbkiiyil5.tmp
+2022-12-31 16:11:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:28 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp18iy2zi8.tmp
+2022-12-31 16:11:28 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpacc59xsd.tmp
+2022-12-31 16:11:28 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpaw_qd55t.tmp
+2022-12-31 16:11:28 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmprowbrzw1.tmp
+2022-12-31 16:11:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:28 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp64iuvl_w.tmp
+2022-12-31 16:11:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpsktg1698.tmp
+2022-12-31 16:11:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:29 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpz_tuvakz.tmp
+2022-12-31 16:11:29 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:30 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpnriikb3a.tmp
+2022-12-31 16:11:30 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:30 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppj6j3n0n.tmp
+2022-12-31 16:11:30 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:31 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8zzoej_6.tmp
+2022-12-31 16:11:31 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvrxos1rq.tmp
+2022-12-31 16:11:31 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:31 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:32 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp8s0ts9o6.tmp
+2022-12-31 16:11:32 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:32 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpq0t75hja.tmp
+2022-12-31 16:11:32 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:32 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp7g8r_7aq.tmp
+2022-12-31 16:11:32 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:34 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp521_lixv.tmp
+2022-12-31 16:11:34 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpegjyhwc_.tmp
+2022-12-31 16:11:34 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpf8a935gk.tmp
+2022-12-31 16:11:34 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpw1mylbcr.tmp
+2022-12-31 16:11:34 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:34 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:34 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:34 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:34 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpx10j5ppm.tmp
+2022-12-31 16:11:34 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:35 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp6x4t56hq.tmp
+2022-12-31 16:11:35 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp52a3vc75.tmp
+2022-12-31 16:11:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpdsdfnor7.tmp
+2022-12-31 16:11:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpizw8i8zi.tmp
+2022-12-31 16:11:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpm74bsg9f.tmp
+2022-12-31 16:11:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpwy98kqhd.tmp
+2022-12-31 16:11:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp3xeexlep.tmp
+2022-12-31 16:11:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppoyc6fgj.tmp
+2022-12-31 16:11:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:36 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpn83bzcse.tmp
+2022-12-31 16:11:36 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:37 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpbtipsd2t.tmp
+2022-12-31 16:11:37 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmptwstm9fe.tmp
+2022-12-31 16:11:37 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:37 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp9oganfr0.tmp
+2022-12-31 16:11:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpgviwyg99.tmp
+2022-12-31 16:11:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpiadxz4ae.tmp
+2022-12-31 16:11:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpvbrjjq5h.tmp
+2022-12-31 16:11:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpz7n4hx4_.tmp
+2022-12-31 16:11:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpzmbbg8_s.tmp
+2022-12-31 16:11:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp1ut_vkvo.tmp
+2022-12-31 16:11:38 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp613ac5us.tmp
+2022-12-31 16:11:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:38 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:39 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp5_r3cy92.tmp
+2022-12-31 16:11:39 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpeaz00ohf.tmp
+2022-12-31 16:11:39 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpjm7z3urp.tmp
+2022-12-31 16:11:39 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:39 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:39 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:11:40 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpop43iwx3.tmp
+2022-12-31 16:11:40 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:13:10 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 16:13:10 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:13:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp23y2xguf.tmp
+2022-12-31 16:13:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:13:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 16:13:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:13:24 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:13:24 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:19:00 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 16:19:00 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:19:04 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp55n5rmh5.tmp
+2022-12-31 16:19:04 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:19:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 16:19:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:19:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:19:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:22:13 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 16:22:13 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:22:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpxxpc2evk.tmp
+2022-12-31 16:22:16 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:22:18 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 16:22:18 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:22:26 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:22:26 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:23:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 16:23:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:23:30 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp32y2qx0h.tmp
+2022-12-31 16:23:30 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:23:31 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 16:23:31 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:23:40 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:23:40 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:26:07 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 16:26:07 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:26:09 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpkrdfxiak.tmp
+2022-12-31 16:26:09 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:26:10 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 16:26:10 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:26:14 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:26:14 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:27:47 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 16:27:47 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:27:49 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmp74lgve0m.tmp
+2022-12-31 16:27:49 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:27:54 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:27:54 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:28:25 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 16:28:25 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:28:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmppaqd2_kf.tmp
+2022-12-31 16:28:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:28:27 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.elf
+2022-12-31 16:28:27 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:28:32 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:28:32 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:29:03 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 16:29:03 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:29:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpdv6drxra.tmp
+2022-12-31 16:29:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:29:10 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:29:10 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:38:05 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/src/main.cpp.o
+2022-12-31 16:38:05 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:38:08 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/tmpeob3jb7c.tmp
+2022-12-31 16:38:08 error: SQLITE_ERROR: no such table: issues
+2022-12-31 16:38:16 info: file:///c%3A/Users/User-HP/Documents/PlatformIO/Projects/Ethernet%20test/.pio/build/featheresp32/firmware.bin
+2022-12-31 16:38:16 error: SQLITE_ERROR: no such table: issues
